@@ -1,0 +1,1 @@
+docker build -t frasolmun/sannpq:v1 .

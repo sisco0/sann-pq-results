@@ -1,0 +1,9 @@
+scipy
+pandas
+NiaPy
+matplotlib
+tensorflow
+git+https://github.com/NiaOrg/NiaPy.git@adf9bd0779e62c1193a485f10d2ea54462b96c01 # 2.0.0rc11
+peakutils
+pyhht
+pyyawt
